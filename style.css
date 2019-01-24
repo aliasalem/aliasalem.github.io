@@ -1,7 +1,7 @@
 <DOCTYPE! html> 
 <html>
 <style>
-		body {background-color:#7ecefc; font-family:courier;}
+		body {background-color: hsla(9, 100%, 64%, 0.4); font-family:courier;}
 		h1 {color:white; text-align:center; background-color: red !important;}
 		h2 {color:blue}
 		table {border: 3px; padding:10px}
