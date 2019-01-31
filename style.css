@@ -1,5 +1,5 @@
 
-		body {background-color: hsla(9, 100%, 64%, 0.4); font-family:courier;}
+		body {background-color: #81F7F3; font-family:courier;}
 		h1 {color:white; text-align:center; background-color: red !important;}
 		h2 {color:blue}
 		table {border: 3px; padding:10px}
@@ -10,7 +10,7 @@
 		h3 {color:blue}
 		h6 {color:DodgerBlue";"text-align:right;}
 		.white {color:white !important; text-align:right;font-weight: bolder; font-style: italic; background-color:red;}
-		.backcolor {background-color:#81F7F3}
+		.backcolor {background-color:#38E4A3}
 		img {border: 1px solid #ddd;
   		border-radius: 4px;
    		padding: 5px;
